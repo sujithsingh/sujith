@@ -10,4 +10,10 @@ public abstract class Abstraction {
 		System.out.println("axis bank");
 	}
 
+	private void sysout() {
+		int x = 10;
+		String y="suji";
+		System.out.println("sujith");
+
+	}
 }
