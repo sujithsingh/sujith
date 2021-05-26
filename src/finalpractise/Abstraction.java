@@ -1,5 +1,7 @@
 package finalpractise;
 
+import selenium.HDFCbank;
+
 public abstract class Abstraction {
 
 	public abstract void hdfcbank(); // abstract methods
@@ -8,6 +10,11 @@ public abstract class Abstraction {
 
 	public void axisbank() {
 		System.out.println("axis bank");
+	}
+
+	public void HDFCbank() {
+		System.out.println("hdfc bank");
+
 	}
 
 }
